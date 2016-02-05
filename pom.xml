@@ -77,9 +77,9 @@
   </contributors>
 
   <scm>
-    <url>http://github.com/mybatis/spring</url>
-    <connection>scm:git:ssh://github.com/mybatis/spring.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/mybatis/spring.git</developerConnection>
+    <url>https://github.com/NSIT/mybatis-3</url>
+    <connection>scm:git:git@github.com:NSIT/mybatis-spring.git</connection>
+    <developerConnection>scm:git:git@github.com:NSIT/mybatis-spring.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
   <issueManagement>
